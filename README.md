@@ -1,17 +1,13 @@
-# Chatdbt
+# chat-dbt
 
 This repo is an implementation of a chatbot specifically focused on question answering over
 the [dbt documentation](https://docs.getdbt.com/docs/introduction).
-It is based on [chat-langchain](https://github.com/hwchase17/chat-langchain).
+It is based on the amazing [chat-langchain](https://github.com/hwchase17/chat-langchain).
 
 ## 🚀 Important Links
 
-Website: [chat.langchain.dev](https://chat.langchain.dev)
-
-Hugging Face
-Spage: [huggingface.co/spaces/hwchase17/chat-langchain](https://huggingface.co/spaces/hwchase17/chat-langchain)
-
-Blog Post: [blog.langchain.dev/langchain-chat/](https://blog.langchain.dev/langchain-chat/)
+Blog Post about the original
+langchain-chat library: [blog.langchain.dev/langchain-chat/](https://blog.langchain.dev/langchain-chat/)
 
 ## 📚 Technical description
 
