@@ -50,4 +50,6 @@ mv .env.example .env
 docker-compose up
 ```
 
+4. Open the app in your browser
 
+Head over to `localhost:9993` to see the app running.
