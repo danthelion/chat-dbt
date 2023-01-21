@@ -4,6 +4,8 @@ This repo is an implementation of a chatbot specifically focused on question ans
 the [dbt documentation](https://docs.getdbt.com/docs/introduction).
 It is based on the amazing [chat-langchain](https://github.com/hwchase17/chat-langchain).
 
+![chatbot](example.png)
+
 ## 🚀 Important Links
 
 Blog Post about the original
