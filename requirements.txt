@@ -1,0 +1,10 @@
+langchain==0.0.66
+weaviate-client
+openai
+black
+isort
+Flask
+transformers
+gradio
+python-dotenv
+tiktoken

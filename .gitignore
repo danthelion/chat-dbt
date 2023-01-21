@@ -1,0 +1,4 @@
+.idea
+.env
+docs.getdbt.com
+__pycache__
